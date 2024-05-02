@@ -1,4 +1,4 @@
-Book Management API
+automobile_api API
 This Node.js API allows you to manage employees with encrypted sensitive data.
 
 Table of Contents
@@ -16,7 +16,7 @@ git clone https://github.com/ArunSinghpanwar/automobile_api.git
 Navigate to the project directory:
 bash
 Copy code
-cd book-management-api
+cd automobile_api
 Install dependencies:
 bash
 Copy code
